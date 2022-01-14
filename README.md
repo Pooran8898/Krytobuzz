@@ -10,7 +10,6 @@
 * [hardhat]
 * [@nomiclabs/hardhat-ethers]
 * [@nomiclabs/hardhat-waffle]
-* [ethers]
 * [uuid]
 
 # Steps to Browse the Projects
